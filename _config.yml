@@ -1,0 +1,11 @@
+title: "Brian Zelip"
+description: Library and Information Science student interested in creating efficient user interfaces and exploring data.
+
+author:
+  name: Brian Zelip
+  handle: bzelip
+  email: bzelip@gmail.com
+
+permalink: pretty
+baseurl: "/jekyll-test"
+highlighter: pygments
